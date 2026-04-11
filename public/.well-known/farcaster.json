@@ -2,12 +2,12 @@
   "miniapp": {
     "version": "1",
     "name": "TicTacToe 4x4",
-    "iconUrl": "https://your-app.vercel.app/icon.png",
-    "homeUrl": "https://your-app.vercel.app",
-    "splashImageUrl": "https://your-app.vercel.app/splash.png",
+    "iconUrl": "https://tictactoe-farcaster-brown.vercel.app/icon.png",
+    "homeUrl": "https://tictactoe-farcaster-brown.vercel.app",
+    "splashImageUrl": "https://tictactoe-farcaster-brown.vercel.app/splash.png",
     "splashBackgroundColor": "#1a1a2e",
-    "subtitle": "Fight Bot in 4x4 Board",
-    "description": "Tic-Tac-Toe is fun on a 4x4 board. Challenge the bot and prove whos better!",
+    "subtitle": "Lawan Bot di papan 4x4",
+    "description": "Game TicTacToe seru di papan 4x4. Tantang bot dan buktikan siapa yang lebih jago!",
     "primaryCategory": "games",
     "tags": ["game", "tictactoe", "puzzle", "casual"]
   }
