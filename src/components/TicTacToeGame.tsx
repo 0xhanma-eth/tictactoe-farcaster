@@ -115,7 +115,7 @@ function minimax(
   }
 }
 
-function gerakan Bot(papan: Board, tingkat: Difficulty): number {
+function gerakanBot(papan: Board, tingkat: Difficulty): number {
   const kosong = papan.map((s, i) => (s === null ? i : -1)).filter((i) => i >= 0)
   if (kosong.length === 0) return -1
 
