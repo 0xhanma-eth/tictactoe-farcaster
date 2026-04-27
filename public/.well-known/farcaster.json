@@ -1,4 +1,9 @@
 {
+  "accountAssociation": {
+    "header": "eyJmaWQiOjMxNDM1MywidHlwZSI6ImN1c3RvZHkiLCJrZXkiOiIweDQzNDk3MDYyQTAwMzlENDVhYjE5MUYwNGU5NTIyQTFFZTM3Y2Y2MzMifQ",
+    "payload": "eyJkb21haW4iOiJ0aWN0YWN0b2UtZmFyY2FzdGVyLWJyb3duLnZlcmNlbC5hcHAifQ",
+    "signature": "wHObG1DqrvTbcGsRGY50i55wyYIXTn0NmmGmQXSh5CRBLvdMPaHGl48CBRV6VVVJaNK1U6xPQtPGIClIGaFI+xs="
+  },
   "miniapp": {
     "version": "1",
     "name": "TicTacToe 4x4",
