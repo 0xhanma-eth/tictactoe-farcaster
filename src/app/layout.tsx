@@ -14,14 +14,14 @@ export const metadata: Metadata = {
   other: {
     'fc:miniapp': JSON.stringify({
       version: '1',
-      imageUrl: `${appUrl}/icon.png`,
+      imageUrl: `${appUrl}/og-image.png`,
       button: {
         title: 'Main Sekarang!',
         action: {
           type: 'launch_frame',
           name: 'TicTacToe 4x4',
           url: appUrl,
-          splashImageUrl: `${appUrl}/icon.png`,
+          splashImageUrl: `${appUrl}/og-image.png`,
           splashBackgroundColor: '#1a1a2e',
         },
       },
